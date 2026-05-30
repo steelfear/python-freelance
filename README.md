@@ -13,11 +13,11 @@
 
 ### 1. Парсер книжного магазина (books.toscrape.com)
 Скрипт собирает названия, цены и ссылки на изображения книг и сохраняет в Excel.
-Файл: `books_parser.py`
+Файл: `portal.py`
 
 ### 2. Парсер цитат (quotes.toscrape.com)
 Сбор цитат и авторов с последующей записью в Excel.
-Файл: `quotes_parser.py`
+Файл: `new.py`
 
 ## Контакты
 - GitHub: @steelfear
